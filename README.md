@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ylcheryl
-- 👀 I’m interested in using technologies to solve business problems
+- 👀 I’m interested in using technology to solve business problems
 - 🌱 I’m currently learning DevOps tools and Cloud provisioning
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
