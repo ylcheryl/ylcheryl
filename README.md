@@ -8,7 +8,7 @@
 ---
 ### 👋 Feel free to explore my
 
-*if you see the 404 sign, it means special access is required for that area*
+*if you see the 404 sign, it means that area is still private*
 
 <table>
 
