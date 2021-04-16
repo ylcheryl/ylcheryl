@@ -39,6 +39,7 @@
 ### 🛠️ My tools
 
 - [Markdown Editor](https://pandao.github.io/editor.md/en.html)
+- [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 <!---
 ylcheryl/ylcheryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
