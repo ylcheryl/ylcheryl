@@ -3,8 +3,8 @@
 - I’m Cheryl 
 - I like solving problems, particularly using technology to overcome business challenges 
 - I’m currently training my technical muscles in DevOps tools and Cloud provisioning 
-- Get to know me by entering my little town here
-
+- Get to know me by entering my humble neighbourhood here
+ 
 ---
 ### 👋 Let me bring you to my
 
