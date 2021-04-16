@@ -12,11 +12,11 @@
 <table>
   <tr>
     <td>
-      🌶️ <a href='https://github.com'>Pantry</a><br>
+      🌶️ <a href='https://github.com'>pantry</a><br>
       where I store my ingredients and healthy snacks
     </td>
     <td>
-      👩🏻‍🍳 <a href='https://github.com'>Kitchen</a><br>
+      👩🏻‍🍳 <a href='https://github.com'>kitchen</a><br>
       where I cook and reflect on what goes into my cookbook
     </td>
   </tr>
