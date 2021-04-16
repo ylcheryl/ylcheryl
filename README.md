@@ -1,8 +1,10 @@
+# 🏞️ Welcome to my humble town
+
 - 👋 Hi, I’m Cheryl
-- 👀 I’m interested in using technology to solve business problems
-- 🌱 I’m currently learning DevOps tools and Cloud provisioning
+- 👀 I’m like solving problems, particularly using technology to overcome business challenges
+- 🌱 I’m currently training my technical muscles in DevOps tools and Cloud provisioning
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Get to know me by entering my humble town here
+- 📫 Get to know me by entering my little town here
 
 <!---
 ylcheryl/ylcheryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
