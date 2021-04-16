@@ -1,7 +1,7 @@
 # 🏞️ Hi there. Welcome!
 
 - I’m Cheryl 
-- I like solving problems, particularly using technology to overcome business challenges 
+- I like to explore. I like utilizing tools and technology to overcome challenges 
 - I’m currently training my technical muscles in DevOps tools and Cloud provisioning 
 - Get to know me by entering my humble neighbourhood here in Github city
  
