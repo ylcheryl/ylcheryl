@@ -9,6 +9,18 @@
 ### 👋 Let me show you to my
 
 <table>
+
+  <tr>
+    <td style="text-align:center">🤸‍♀️ <a href='https://github.com/users/ylcheryl/projects/4'>playground</a><br>
+      where I try, fall, get up and have fun<br>
+      (New areas that I am researching on)
+    </td style="text-align:center"> 
+    <td>
+      🏛️ <a href='https://github.com/users/ylcheryl/projects/1'>museum</a><br>
+      where I display my classic crafts<br>
+      (Snippets of past works that may still be relevant)
+    </td>
+  </tr>
   <tr>
     <td>
       🌶️ <a href='https://github.com/users/ylcheryl/projects/2'>pantry</a><br>
@@ -21,18 +33,6 @@
       (Full receipt that can be followed to meet a need)
     </td>
   </tr>
-  <tr  >
-    <td style="text-align:center">🤸‍♀️ <a href='https://github.com/users/ylcheryl/projects/4'>playground</a><br>
-      where I try, fall, get up and have fun<br>
-      (New areas that I am researching on)
-    </td style="text-align:center"> 
-    <td>
-      🏛️ <a href='https://github.com/users/ylcheryl/projects/1'>museum</a><br>
-      where I display my classic crafts<br>
-      (Snippets of past works that may still be relevant)
-    </td>
-  </tr>
-
  </table>
 
 <!---
