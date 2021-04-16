@@ -30,7 +30,7 @@
     <td>
       👩🏻‍🍳 <a href='https://github.com/users/ylcheryl/projects/3'>kitchen</a><br>
       <b>where I cook and reflect on what goes into my cookbook</b><br>
-      <I>Full receipt that can be followed to meet a need</I>
+      <I>Full recipe that can be followed to meet a need</I>
     </td>
   </tr>
  </table>
