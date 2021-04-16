@@ -12,20 +12,20 @@
 <table>
   <tr>
     <td>
-      🌶️ <a href='https://github.com'>pantry</a><br>
+      🌶️ <a href='https://github.comhttps://github.com/users/ylcheryl/projects/2'>pantry</a><br>
       where I store my ingredients and healthy snacks
     </td>
     <td>
-      👩🏻‍🍳 <a href='https://github.com'>kitchen</a><br>
+      👩🏻‍🍳 <a href='https://github.com/users/ylcheryl/projects/3'>kitchen</a><br>
       where I cook and reflect on what goes into my cookbook
     </td>
   </tr>
   <tr  >
-    <td style="text-align:center">🤸‍♀️ <a href='https://github.com'>playground</a><br>
+    <td style="text-align:center">🤸‍♀️ <a href='https://github.com/users/ylcheryl/projects/4'>playground</a><br>
       where I try, fall, get up and have fun
     </td style="text-align:center"> 
     <td>
-      🏛️ <a href='https://github.com'>museum</a><br>
+      🏛️ <a href='https://github.com/users/ylcheryl/projects/1'>museum</a><br>
       where I display my classic crafts.
     </td>
   </tr>
