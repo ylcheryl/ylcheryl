@@ -13,20 +13,24 @@
   <tr>
     <td>
       🌶️ <a href='https://github.com/users/ylcheryl/projects/2'>pantry</a><br>
-      where I store my ingredients and healthy snacks
+      where I store my ingredients and healthy snacks<br>
+      (I am able to consume them directly or use to prepare a dish)
     </td>
     <td>
       👩🏻‍🍳 <a href='https://github.com/users/ylcheryl/projects/3'>kitchen</a><br>
-      where I cook and reflect on what goes into my cookbook
+      where I cook and reflect on what goes into my cookbook<br>
+      (Full receipt that can be followed to meet a need)
     </td>
   </tr>
   <tr  >
     <td style="text-align:center">🤸‍♀️ <a href='https://github.com/users/ylcheryl/projects/4'>playground</a><br>
-      where I try, fall, get up and have fun
+      where I try, fall, get up and have fun<br>
+      (New areas that I am researching on)
     </td style="text-align:center"> 
     <td>
       🏛️ <a href='https://github.com/users/ylcheryl/projects/1'>museum</a><br>
-      where I display my classic crafts.
+      where I display my classic crafts<br>
+      (Snippets of past works that may still be relevant)
     </td>
   </tr>
 
