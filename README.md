@@ -1,10 +1,10 @@
 # 🏞️ Welcome to my humble town
 
-● Hi, I’m Cheryl 
-● I like solving problems, particularly using technology to overcome business challenges 
-● I’m currently training my technical muscles in DevOps tools and Cloud provisioning 
-● I’m looking to collaborate on open source projects 
-● Get to know me by entering my little town here
+- Hi, I’m Cheryl 
+- I like solving problems, particularly using technology to overcome business challenges 
+- I’m currently training my technical muscles in DevOps tools and Cloud provisioning 
+- I’m looking to collaborate on open source projects 
+- Get to know me by entering my little town here
 
 ---
 ### 👋 Let me show you to my
@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      🌶️ <a href='https://github.comhttps://github.com/users/ylcheryl/projects/2'>pantry</a><br>
+      🌶️ <a href='https://github.com/users/ylcheryl/projects/2'>pantry</a><br>
       where I store my ingredients and healthy snacks
     </td>
     <td>
