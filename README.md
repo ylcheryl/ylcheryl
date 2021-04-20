@@ -13,7 +13,7 @@
   <tr>
     <td style="text-align:center">🤸‍♀️ <a href='https://github.com/users/ylcheryl/projects/4'>playground</a><br>
       <b>where I try, fall, get up and have fun</b><br>
-      <I>New areas that I am researching on</I>
+      <I>Areas that I am experimenting</I>
     </td style="text-align:center"> 
     <td>
       🏛️ <a href='https://github.com/users/ylcheryl/projects/1'>museum</a><br>
