@@ -5,6 +5,7 @@
 - I’m currently training my technical muscles in DevOps tools and Cloud provisioning 
 - Get to know what I am doing by entering my humble neighbourhood here in Github city
 <br> *if you see the 4️⃣0️⃣4️⃣ sign, it means that area is still private*
+<!---
 ---
 ### 👋 Feel free to explore my
 
@@ -41,7 +42,7 @@
 - [Markdown Editor](https://pandao.github.io/editor.md/en.html)
 - [Emoji Cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-<!---
+
 ylcheryl/ylcheryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Cheryl
